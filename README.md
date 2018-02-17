@@ -10,16 +10,16 @@ Feb. 16, 2018
 Kara Knack
 
 ### Project Description:
-In this assignment, I set up an expense calculator that calulates 
+In this assignment, I set up an expense calculator that calulates the percentage when the amount of dollars for different spendings.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+
+https://github.com/karaknack/lesson4_javascript1
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The parse float method converts a string into a Float.
+2. var creates variables that will store the result of calculating the expenses and percentages.
+3. The innerHTML property used with the document.getElementById() sets or returns the HTML content (inner HTML) of an element.
 
 
 
