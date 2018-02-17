@@ -4,13 +4,13 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+Feb. 16, 2018
 
 ### Student Name:  
-(First and Last Name)
+Kara Knack
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment, I set up an expense calculator that calulates 
 
 ### View Project:
 (Replace this statement with your GitHub Page URL that was created when you 
